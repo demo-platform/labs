@@ -71,6 +71,8 @@ a:hover {
   margin: 15px 0 0 15px;
   background: url("logo.png") center no-repeat;
   text-indent: -99999px;
+  cursor: pointer;
+  -webkit-user-select: none;
 }
 
 #logo h1 {
