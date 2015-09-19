@@ -151,11 +151,13 @@ li.repo > a {
   overflow: hidden;
   text-decoration: none;
   color: inherit;
+  transition: all 0.3s;
 }
 
 li.repo a:hover {
   background: #efefef;
   background: rgba(0, 0, 0, 0.05);
+  transition: all 0.3s;
 }
 
 li.repo h2, li.repo h3, li.repo p {
